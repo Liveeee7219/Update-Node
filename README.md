@@ -5,7 +5,7 @@ You will need nvm for this to work. Download it <a href="https://github.com/nvm-
 
 # Instructions
 
-First you will want to download the updateNode.bat file from here and put it into `C:\Windows\System32'.
+First you will want to download the updateNode.bat file from here and put it into `C:\Windows\System32`.
 
 Next you will need to hit ⊞ + R, which opens a run window.
 
