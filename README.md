@@ -11,5 +11,11 @@ Next you will need to hit ⊞ + R, which opens a run window.
 
 Next you will want to type shell:startup and hit enter. This will open up a folder that will allow you to change what starts at boot.
 
-Next create
+Next create a shortcut in the startup folder and when it asks you where it should be too, type in # "C:\Windows\System32\cmd.exe /c start updateNode.bat"
+
+After you do that you can name it anything. You should then be good to exit out of everything.
+
+And next time you boot up your pc it should start it, update Node, and then close it self.
+
+# NOTE [IT MIGHT ASK FOR PERMISSION EVERYTIME IT TRIES TO UPDATE. IF YOU HAVE ANY SOLUTION TO THIS HAPPENING, PLEASE MAKE A PR
 
