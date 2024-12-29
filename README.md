@@ -11,7 +11,7 @@ Next you will need to hit ⊞ + R, which opens a run window.
 
 Next you will want to type shell:startup and hit enter. This will open up a folder that will allow you to change what starts at boot.
 
-Next create a shortcut in the startup folder. When it asks you where it should be too, type in "C:\Windows\System32\cmd.exe /c start updateNode.bat"
+Next create a shortcut in the startup folder. When it asks you where it should be too, type in `C:\Windows\System32\cmd.exe /c start updateNode.bat`
 
 After you do that you can name it anything. You should then be good to exit out of everything.
 
